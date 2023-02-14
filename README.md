@@ -1,6 +1,6 @@
 # flask_freecodecamp
 
-This the project I have build to get the hand-on during learing flask. It's course from the youtube channel of freecodecamp.
+This the project I have build to get the hand-on during learning flask. It's course from the YouTube channel of freecodecamp.
 
 Link: https://youtu.be/Qr4QMBUPxWo
 
